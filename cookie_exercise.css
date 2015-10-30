@@ -1,0 +1,14 @@
+#answer_span {
+	color: #FE2EC8;
+	margin: 200px;
+	font-size: 300px;
+}
+
+#question {
+	margin-left: 50px;
+	margin-top: 50px;
+	border: solid;
+	width: 200px;
+	height: 150px;
+	padding: 15px;
+}
